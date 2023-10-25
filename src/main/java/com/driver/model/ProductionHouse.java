@@ -6,6 +6,7 @@ import java.util.List;
 
 @Entity
 @Table
+
 public class ProductionHouse {
 
     @Id
